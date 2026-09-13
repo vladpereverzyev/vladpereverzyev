@@ -15,8 +15,8 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # Personal access token (classic) added as the METRICS_TOKEN secret.
-          token: ${{ secrets.METRICS_TOKEN }}
+          # Uses the built-in Actions token - public data only, no PAT needed.
+          token: ${{ github.token }}
           user: ${{ github.repository_owner }}
           filename: github-metrics.svg
           template: classic
