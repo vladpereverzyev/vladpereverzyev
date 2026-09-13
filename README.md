@@ -1,4 +1,5 @@
 <h1 align="center">Vladyslav Pereverzyev</h1>
+<p align="center">Developer of open-source tools and web projects</p>
 
 ---
 
