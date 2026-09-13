@@ -40,7 +40,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vladpereverzyev&theme=dark&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=vladpereverzyev&hide_border=true" alt="GitHub streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=vladpereverzyev&theme=dark&hide_border=true&stroke=00000000">
+    <img src="https://streak-stats.demolab.com/?user=vladpereverzyev&hide_border=true&stroke=00000000" alt="GitHub streak">
   </picture>
 </p>
