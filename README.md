@@ -1,7 +1,7 @@
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="signature.gif">
-    <img src="signature-light.gif" alt="Vladyslav Pereverzyev" width="480">
+    <img src="signature-light.gif" alt="Vladyslav Pereverzyev" width="380">
   </picture>
 </h1>
 
