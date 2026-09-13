@@ -38,3 +38,10 @@
     <img src="https://streak-stats.demolab.com/?user=vladpereverzyev&hide_border=true" alt="GitHub streak">
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vladpereverzyev/vladpereverzyev/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/vladpereverzyev/vladpereverzyev/output/github-snake.svg" alt="Snake animation of my contribution graph">
+  </picture>
+</p>
