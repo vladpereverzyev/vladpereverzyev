@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="signature.gif">
-    <img src="signature-light.gif" alt="Vladyslav Pereverzyev" width="300">
+    <source media="(prefers-color-scheme: dark)" srcset="sig-dark.gif">
+    <img src="sig-light.gif" alt="Vladyslav Pereverzyev" width="300">
   </picture>
 </div>
 
