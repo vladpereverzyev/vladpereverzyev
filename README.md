@@ -1,5 +1,5 @@
 <h1 align="center">Vladyslav Pereverzyev</h1>
-<p align="center">Developer of open-source tools and web projects</p>
+<p align="center">Dental technician building software for 3D reconstruction, manufacturing and automation in dentistry.</p>
 
 ---
 
