@@ -14,14 +14,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Compute total downloads
+      - name: Compute total downloads across all public repos
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           total=0
-          for repo in flipper-staff-time-clock lab-ledger; do
+          # Every public, non-fork repo the account owns - new ones are picked up
+          # automatically, no need to edit this workflow.
+          repos=$(gh api "users/${{ github.repository_owner }}/repos?per_page=100" \
+            --paginate --jq '.[] | select(.fork == false) | .name')
+          for repo in $repos; do
             n=$(gh api "repos/${{ github.repository_owner }}/$repo/releases" \
-              --jq '[.[].assets[].download_count] | add // 0')
+              --jq '[.[].assets[].download_count] | add // 0' 2>/dev/null || echo 0)
             total=$((total + n))
           done
           echo "Total downloads: $total"
