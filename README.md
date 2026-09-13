@@ -7,6 +7,11 @@
   <a href="https://ko-fi.com/vladpereverzyev"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vladpereverzyev&label=Profile+views&color=0e75b6&style=flat" alt="Profile views">
+  <a href="https://github.com/vladpereverzyev/flipper-staff-time-clock/releases"><img src="https://img.shields.io/github/downloads/vladpereverzyev/flipper-staff-time-clock/total?label=Downloads&color=0e75b6" alt="Downloads"></a>
+</p>
+
 ---
 
 <p align="center">
