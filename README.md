@@ -2,7 +2,7 @@
 <p align="center">Dental technician building software for 3D reconstruction, manufacturing and automation in dentistry.</p>
 
 <p align="center">
-  <a href="https://www.vladpereverzyev.com"><img src="https://img.shields.io/badge/Website-000000?logo=aboutdotme&logoColor=white" alt="Website"></a>
+  <a href="https://www.vladpereverzyev.com"><img src="https://img.shields.io/badge/Website-222222" alt="Website"></a>
   <a href="https://github.com/sponsors/vladpereverzyev"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?logo=githubsponsors&logoColor=white" alt="Sponsor"></a>
   <a href="https://ko-fi.com/vladpereverzyev"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
 </p>
