@@ -1,5 +1,8 @@
 <h1 align="center">
-  <img src="signature.gif" alt="Vladyslav Pereverzyev" width="480">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="signature.gif">
+    <img src="signature-light.gif" alt="Vladyslav Pereverzyev" width="480">
+  </picture>
 </h1>
 
 <p align="center">
