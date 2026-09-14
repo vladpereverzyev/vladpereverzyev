@@ -9,22 +9,22 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladpereverzyev&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladpereverzyev&theme=default" alt="Profile details" width="560">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladpereverzyev&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladpereverzyev&theme=default" alt="Stats" width="272">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladpereverzyev&theme=default" alt="Stats" width="360">
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladpereverzyev&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladpereverzyev&theme=default" alt="Top languages by repo" width="272">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladpereverzyev&theme=default" alt="Top languages by repo" width="360">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vladpereverzyev&utcOffset=1&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vladpereverzyev&utcOffset=1&theme=default" alt="Productive time" width="360">
   </picture>
 </p>
 
